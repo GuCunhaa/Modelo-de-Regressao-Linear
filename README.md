@@ -17,7 +17,14 @@
 # Tecnologias ultilizadas
 * Python
 # Bibliotecas
-(Em breve)
+* Pandas
+* Numpy
+* matplotlib
+* missingno
+* plotly
+* seaborn
+* sklearn
+* MinMaxScaler
 # Autor
 Gustavo Cunha
 
